@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    list-style: none;
+}
+.button{
+    outline: none;
+    border: 0;
+    cursor: pointer;
+    background-color: white;
+}
+
+.state{
+    font-size: 2.5rem;
+}
+.number{
+    display: inline-block;
+    text-align: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    font-size: 2.5rem;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    margin: 0 0.5rem;
+}
+.plus,
+.minus{
+    font-size: 2.5rem;
+    color: goldenrod;
+    margin: 0 0.5rem;
+}
+.trash{
+    font-size: 2.5rem;
+    color: red;
+    margin: 0 0.5rem;
+}

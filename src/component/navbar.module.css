@@ -1,0 +1,27 @@
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+
+}
+.h1{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.icon{
+    color: green;
+    font-size: 2rem;
+    
+}
+.state{
+    display: inline-block;
+    text-align: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    font-size: 2rem;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+}
